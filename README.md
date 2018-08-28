@@ -1,7 +1,7 @@
 # bloom_filters
   
 A variety of custom made Bloomf filters:  
-- regular Bloom filter  
+- regular Bloom filter (soon)  
 - locality sensitive Bloom filter  
 - time-decaying Bloom filter  
   
